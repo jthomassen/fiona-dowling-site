@@ -5,7 +5,7 @@ function Header() {
   return (
     <div className="header-container">
       <Link to="/" className="header-link">
-        Fiona Dowling
+        Fiona Dowling test
       </Link>
       <nav className="nav-links">
         <Link to="/work" className="link">
