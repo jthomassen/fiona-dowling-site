@@ -1,8 +1,5 @@
 .cv-container {
-  /* border: 2px solid black; */
-
   margin-top: 30px;
-  /* padding-left: 400px; */
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -25,7 +22,7 @@ p {
   font-weight: 700;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 767px) {
   .cv-container {
     margin-top: 30px;
     display: flex;

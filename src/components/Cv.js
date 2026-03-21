@@ -27,7 +27,6 @@ function Cv() {
       <p></p>
       <p></p>
       <a href="mailto:someone@example.com">dowling.fe@gmail.com </a>
-    
     </div>
   );
 }
